@@ -31,7 +31,7 @@
 - ⚡ Fun fact: I spend almost 12 hours listening songs everyday.
 
 
-[![Linkedin: Krishan Kumar](https://img.shields.io/badge/-Krishan Kumar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/imkrrish/)](https://www.linkedin.com/in/imkrrish/)
+[![Linkedin: Krishan Kumar](https://img.shields.io/badge/-KrishanKumar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/imkrrish/)](https://www.linkedin.com/in/imkrrish/)
 [![GitHub imkrrish](https://img.shields.io/github/followers/imkrrish?label=follow&style=social)](https://github.com/imkrrish)
 
 
