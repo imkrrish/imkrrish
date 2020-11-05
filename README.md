@@ -1,6 +1,6 @@
 ## Hola, I'm [Krishan Kumar!] 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=imkrrish&label=Views&color=blue&style=plastic" alt="iampawan" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=imkrrish&label=Views&color=blue&style=plastic" alt="imkrrish" /> </p>
 
 
 <a href="https://www.linkedin.com/in/imkrrish/">
