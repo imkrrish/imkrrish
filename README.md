@@ -22,10 +22,10 @@
 
 
 
-- 🔭 I’m currently working on C++!
+- 🔭 I’m currently working on Web-Development!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🥅 2021 Goals: Contribute more to Open Source projects
 - 📫 How to reach me: [Instagram - _krrish_001](https://www.instagram.com/_krrish_001/) , [Linkedin - Krishan Kumar](https://www.linkedin.com/in/imkrrish/)
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I spend almost 12 hours listening songs everyday.
