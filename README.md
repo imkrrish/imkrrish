@@ -52,6 +52,10 @@
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=imkrrish&show_icons=true&theme=dark&line_height=27" alt="Krishan's github stats"/>
 </a>
 
+
+[![@imkrrish's Holopin board](https://holopin.me/imkrrish)](https://holopin.io/@imkrrish)
+
+
 <div align="center">
 
 ### Show some ❤️ by starring some of the repositories!
