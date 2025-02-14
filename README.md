@@ -12,7 +12,7 @@
 <!--
 <a href="https://www.instagram.com/_krrish_001/">
   <img align="left" alt="Krrish's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
+</a>    
 -->
 
 
@@ -51,7 +51,7 @@
 </a>
 <a href="https://github.com/imkrrish">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=imkrrish&show_icons=true&theme=dark&line_height=27" alt="Krishan's github stats"/>
-</a>
+</a>    
 -->
 
 
