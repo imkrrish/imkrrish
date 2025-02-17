@@ -9,19 +9,9 @@
 <a href="https://github.com/imkrrish">
   <img align="left" alt="Krrish's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
-<!--
-<a href="https://www.instagram.com/_krrish_001/">
-  <img align="left" alt="Krrish's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>    
--->
-
-
 
 <br/>
 <br/>
-
-
-
 
 - 🔭 I’m currently working on Web-Development!
 - 🌱 I’m currently learning Go
@@ -37,26 +27,50 @@
 
 
 **Languages and Tools:** 
-
-<img align="left" alt="C" width="26px" src="https://img.icons8.com/color/48/000000/c-programming.png" />
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=cpp" height="30" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="30" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=bootstrap" height="30" alt="bootstrap logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="30" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=express" height="30" alt="express logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="30" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="30" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=figma" height="30" alt="figma logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=postman" height="30" alt="postman logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vscode" height="30" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=go" height="30" alt="go logo"  />
+</div>
 <br/>
-<br/>
-<br/>
-<!---
-<a href="https://github.com/imkrrish">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imkrrish&theme=dark&hide_langs_below=1" />
-</a>
-<a href="https://github.com/imkrrish">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=imkrrish&show_icons=true&theme=dark&line_height=27" alt="Krishan's github stats"/>
-</a>    
--->
-
 
 [![@imkrrish's Holopin board](https://holopin.me/imkrrish)](https://holopin.io/@imkrrish)
 
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/imkrrish/imkrrish/output/snake.svg" alt="Snake animation" />
+
+###
 
 <div align="center">
 
