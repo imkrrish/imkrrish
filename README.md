@@ -17,7 +17,7 @@
 - 🌱 I’m currently learning Go
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2025 Goals: Contribute more to Open Source projects
-- 📫 How to reach me: <!--[Instagram - _krrish_001](https://www.instagram.com/_krrish_001/) ,--> [Linkedin - Krishan Kumar](https://www.linkedin.com/in/imkrrish/)
+- 📫 How to reach me: [Linkedin - Krishan Kumar](https://www.linkedin.com/in/imkrrish/)
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I spend almost 12 hours listening songs everyday.
 
