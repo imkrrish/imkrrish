@@ -2,7 +2,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imkrrish&label=Views&color=blue&style=plastic" alt="imkrrish" /> </p>
 
-
 <a href="https://www.linkedin.com/in/imkrrish/">
   <img align="left" alt="Krrish's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
@@ -13,13 +12,13 @@
 <br/>
 <br/>
 
-- 🔭 I’m currently working on Web-Development!
-- 🌱 I’m currently learning Go
-- 👯 I’m looking to collaborate with other content creators
+- 🔭 Currently diving deep into Web Development!
+- 🌱 Learning Go and loving the challenge!
+- 👯 Open to collaborating with awesome content creators!
 - 🥅 2025 Goals: Contribute more to Open Source projects
-- 📫 How to reach me: [Linkedin - Krishan Kumar](https://www.linkedin.com/in/imkrrish/)
+- 📫 Let’s connect on: [Linkedin - Krishan Kumar](https://www.linkedin.com/in/imkrrish/)
 - 😄 Pronouns: He/His
-- ⚡ Fun fact: I spend almost 12 hours listening songs everyday.
+- ⚡ Fun fact: I probably have a playlist for every mood—because I listen to music almost 12 hours a day! 🎧😆
 
 
 [![Linkedin: Krishan Kumar](https://img.shields.io/badge/-KrishanKumar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/imkrrish/)](https://www.linkedin.com/in/imkrrish/)
