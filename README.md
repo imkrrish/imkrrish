@@ -67,6 +67,7 @@
 
 <br clear="both">
 
+<img src="https://raw.githubusercontent.com/imkrrish/imkrrish/output/snake.svg" alt="Snake animation" />
 
 ###
 
