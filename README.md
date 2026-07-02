@@ -90,7 +90,7 @@ REST APIs
 
 - 🌍 Portfolio: https://ikrishan.com
 - 💼 LinkedIn: https://linkedin.com/in/imkrrish
-- 📧 Email: imkrrish227@gmail.com
+- 📧 Email: info@ikrishan.com
 
 ---
 
